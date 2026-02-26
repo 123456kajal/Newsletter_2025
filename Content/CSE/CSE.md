@@ -289,6 +289,33 @@ We are also actively involved in research and development activities. Our facult
 |28|STC on Introduction to Agile Methodology  | Daljeet Singh | Eight Days| 12th July, 2024 - 19th July, 2024 | Infosys Springboard|
 |29| STC on Software and Engineering and Agile software development| Daljeet Singh | Eight Days| 11th July, 2024 - 17th July, 2024 | Infosys Springboard|
 |30|STC on Agile Scrum in Practice| Daljeet Singh | Eight Days| 11th July, 2024 - 17th July, 2024 | Infosys Springboard|
+|31| Emerging and innovative trends in Teaching , learning and Research |Meetali |5 Days| 06-01-2025 to 10-01-2025 |Department of Business Administration , JIT, Nagpur| 
+|32 | Next Gen in AI/ML and IoT |Dr.Inderjit Singh |6 Days |06-01-2025 to 11-01-2025 |AICTE & ATAL Academy , VVP Engineering College |
+|33| Advancements in Healthcare domain using AI and ML techniques| Kamaldeep Kaur| 5 Days| 06-01-2025 to 10-01-2025 |NIT – Kurukshetra |
+|34| Advancements in Healthcare domain using AI and ML techniques |Priyanka Arora| 5 Days |06-01-2025 to 10-01-2025 |NIT – Kurukshetra |
+|35| Electric Vehicle & charging station technology for sustainable development|Meetali |6 Days| 13-01-2025 to 18-01-2025 |AICTE & ATAL Academy ,NIT Jamshedpur |
+|36| Smart Farming Role of Technology in millets Production |Dr. Amit Jain |6 Days| 13-01-2025 to 18-01-2025 |AICTE & ATAL Academy, SREE BUDDHA COLLEGE OF ENGINEERING, PATTOOR| 
+|37| Indian Health , Wellness & Psychology (including Ayurveda) | Meetali |5 Days| 20-01-2025 to 25-01-2025 |Nehru College of Engineering & Research Centre |
+|38| Sustainable Energy and Climate Management| Dr. Amit Jain |5 Days| 20-01-2025 to 25-01-2025 |AICTE & ATAL Academy, BUDDHA INSTITUTE OF TECHNOLOGY |
+|39| Vehicle Electrification Future Mobility | Dr. Amit Jain|6 Days |27-01-2025 
+to 01-02-2025 |AICTE & ATAL Academy, SAHRDAYA  COLLEGE OF ENGINEERING &  TECHNOLOGY |
+|40| Revolutionizing Healthcare and Biotechnology: The Role of AI and Computational Techniques | Meetali| 6 Days| 03-02-2025 to 08-02-2025 | Sethu Institute of Technology |
+|41| Emerging Trends in Space Computing Technologies| Dr. Amit Jain| 6 Days| 03-02-2025 to 08-02-2025| AICTE & ATAL Academy, Marthandam College of Engineering and Technology |
+|42| Empowering Education with AI: Innovation, Applications, and Future Directions | Kapil Sharma| 5 Days| 10-02-2025 to 14-02-2024| Pyramid College of Business and Technology |
+|43| Innovative Teaching and Learning Pedagogy| Dr.Kiran Jyoti | 6 Days | 17-02-2025 to 22-02-2025| Research Foundation of India|
+|44| Deep Learning and Optimization in Healthcare|Priyanka Arora| 9 Days| 24-02-2025 to 04-03-2025 | NIT-Patna|
+|45| Deep Learning and Optimization in Healthcare|Mapreet Kaur| 9 Days| 24-02-2025 to 04-03-2025 | NIT-Patna|
+|46| Deep Learning and Optimization in Healthcare|Kamaldeep Kaur| 9 Days| 24-02-2025 to 04-03-2025 | NIT-Patna|
+|47| Deep Learning and Optimization in Healthcare|Palak Sood| 9 Days| 24-02-2025 to 04-03-2025 | NIT-Patna|
+|48| A Systematic Way of Research Paper Writing | Lakhvir Kaur Grewal| 5 Days|18-03-2025 to 22-03-2025 | Research Foundation of India |
+|49| A Systematic Way of Research Paper Writing | Maninder Kaur | 5 Days|18-03-2025 to 22-03-2025 | Research Foundation of India |
+|50|How to navigate Springer Nature Platforms to access all journals | Meetali| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
+|51|How to navigate Springer Nature Platforms to access all journals | Lakhvir Kaur Grewal| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
+|52|How to navigate Springer Nature Platforms to access all journals | Maninder Kaur| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
+|53|How to navigate Springer Nature Platforms to access all journals | Jagdeep Kaur| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
+|54| Multimodal Generative AI: Techniques, Applications, and Future Directions| Khushi Dhunna | 5 Days|  12-05-2025 to 16-05-2025| EICT Academy, IIT Roorkee|
+
+
 ## Main Recruiters for CSE Students  
 
 | Sr. No. | Name of Company                           |
