@@ -122,7 +122,40 @@ We are also actively involved in research and development activities. Our facult
 |28 |2104118 |Inderpreet Singh |Nebero| On-Campus |
 |29| 2104122 |Jasdeep Kaur |Batra Booking Koala |On-Campus |
 |30| 2104123| Jashandeep Kaur |Clay HR |On-Campus|
-
+|31| 2104136| Kushmeet Kaur| Safeaeon non technical Account Manager| On-Campus |
+|32| 2104137 |Kuber Tyagi |Infosys| On-Campus |
+|33| 2104143 |Milandeep Kaur |Intrainz Innovation Private Limited |On-Campus| 
+|34| 2104147| Nishant Khanna |Intrainz Innovation Private Limited |On-Campus |
+|35| 2104157 |Prinkal Mahajan |Argusoft| On-Campus |
+|36| 2104159 |Raghav Chopra| Infosys |On-Campus |
+|37 |2104160 |Raghavjeet |SafeAeon |On-Campus |
+|38 |2104162 |Rahul Kumar| Infosys| On-Campus |
+|39 |2104165| Rajat |Venture Pact |On-Campus |
+|40 |2104166 Ranbir Singh| Intrainz Innovation Private Limited |On-Campus |
+|41 |2104170 Robin Rawat |Intrainz Innovation Private Limited |On-Campus |
+|42| 2104176| Saksham| Wits Innovation Lab |On-Campus |
+|43 |2104181| Sangam Arora| Argusoft| On-Campus |
+|44 |2104183 |Sanskar Dorwal| Infosys| On-Campus|
+|45 |2104185| Shashank |Venture Pact| On-Campus |
+|46 |2104189| Shikha Shikha |Infosys |On-Campus |
+|47 |2104190 |Shubham Raj| Intrainz Innovation Private Limited |On-Campus |
+|48 |2104192 |Siddh Chhabra |SafeAeon| On-Campus |
+|49 |2104193 |Simarpreet Kaur| Wits Innovation Lab |On-Campus |
+|50 |2104197| Somya Aggarwal| Airtel| On-Campus |
+|51 |2104198| Sukhdeep Singh| Clay HR |On-Campus |
+|52 |2104203 |Tanvi| Venture Pact |On-Campus |
+|53 |2104205 |Taranjit Kaur| Venture Pact |On-Campus| 
+|54 |2104207 |Tarun Singh |MeritHub Tehnologies Pvt. Ltd. |On-Campus |
+|55 |2104208| Tashneet Kaur |SafeAeon| On-Campus |
+|56 |2104209| Tavleen Kaur| Infosys| On-Campus| 
+|57 |2104210 |Trilok Singh| Accelor Microsystems |On-Campus |
+|58 |2104213 |Vanshika Sharma |Cognizant (GenC Select)| On-Campus |
+|59 |2104214| Vanshika |SafeAeon |On-Campus |
+|60 |2104557 |Rajveer Singh |75way Technologies Pvt. LTD. |On-Campus |
+|61 |2115021 |Armaandeep Singh| Intrainz Innovation Private Limited |On-Campus |
+|62 |2203589| Ridhamjeet Kaur |Infosys| On-Campus |
+|63 |2203599 |Tanveer Singh Puniah |Intrainz Innovation Private Limited |On-Campus |
+|64 |2203696| Simranjeet Kaur| Intrainz Innovation Private Limited| On-Campus |
 
 ## Students of CSE bagged various positions in Sports  
 
