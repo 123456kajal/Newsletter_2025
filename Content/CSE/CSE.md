@@ -131,8 +131,8 @@ We are also actively involved in research and development activities. Our facult
 |37 |2104160 |Raghavjeet |SafeAeon |On-Campus |
 |38 |2104162 |Rahul Kumar| Infosys| On-Campus |
 |39 |2104165| Rajat |Venture Pact |On-Campus |
-|40 |2104166 Ranbir Singh| Intrainz Innovation Private Limited |On-Campus |
-|41 |2104170 Robin Rawat |Intrainz Innovation Private Limited |On-Campus |
+|40 |2104166| Ranbir Singh| Intrainz Innovation Private Limited |On-Campus |
+|41 |2104170 |Robin Rawat |Intrainz Innovation Private Limited |On-Campus |
 |42| 2104176| Saksham| Wits Innovation Lab |On-Campus |
 |43 |2104181| Sangam Arora| Argusoft| On-Campus |
 |44 |2104183 |Sanskar Dorwal| Infosys| On-Campus|
