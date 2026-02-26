@@ -83,8 +83,8 @@ We are also actively involved in research and development activities. Our facult
 
 | S.No. | Name             | URN     | Achievements                                                                           | 
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|
-| 1     | Arpit Singh   | 2004548 | Member college Swimming Team: 1st in PTU           | 
-| 2     | Keshav Hari Nanda   | 2104135 | Member college Basketball Team: 1st in PTU           |
+| 1     | Keshav Hari Nanda   | 2104135  | Member college Basketball Team; 1st in PTU; 2nd in Inter-yr Basketball League       | 
+| 2     | Jasnoor Kaur   | 2104128  | Member College Handball Team; 2nd in PTU, Captain Basketball & CyclingTeam; 1st in PTU,PTU BEST CYCLIST; 3rd in Discus Throw  in college athletic meet, member Sports Committee          |
 | 3     | Inderpreet Singh   | 2104118 | Member college Basketball Team: 1st in PTU           |
 | 4     | Saumya Dhingra   | 2302667 | Member college Basketball Team: 1st in PTU           |
 | 5     | Ridhamjeet Kaur   | 2203589 | Member college Handball Team: 1st in PTU           |
@@ -92,23 +92,6 @@ We are also actively involved in research and development activities. Our facult
 | 7     | Roshni   | 2203593 | Member college Handball Team: 1st in PTU           |
 | 8     | Saumya Dhingra   | 2302667 | Member college Handball Team: 2nd in PTU           |
 | 9     | Aditya Kumar   | 2104057 | Member college Handball Team: 2nd in PTU           |
-| 10     | Robin Rawat   | 2104170 | Member college Handball Team: 2nd in PTU           |
-| 11    | Jasnoor Kaur   | 2104128 | Member college Athletics Team: 2nd in PTU           |
-| 12    | Aditya Kumar   | 2104057 | Member college Athletics Team: 2nd in PTU           |
-| 13    | Simranjeet Kaur   | 2203596 | Member college Athletics Team: 2nd in PTU           |
-| 14    | Robin Rawat   | 2104170 | Member college Lawn Tennis Team: 3rd in PTU           |
-| 15    | Nikhil Rana   | 2302727 | Member college Badminton Team: 3rd in PTU           |
-| 16    | Abhay Madaan   | 2004398 | Member college Badminton Team: 3rd in PTU           |
-| 17     | Jasnoor Kaur   | 2104128 | Member college Cycling Team: 1st in PTU           |
-| 18     | Harsimran Singh   | 2215069 | Member college Hockey Team: 1st in PTU           |
-| 19    | Arundeep Singh   | 2215021 | Member college Hockey Team: 1st in PTU           |
-| 20    | Rohit Kakralia   | 2203543 | Member college Power Lifting Team: 2nd in PTU           |
-| 21     | Sahil Arora   | 2203546 | Member college Chess Team: 2nd in PTU           |
-| 22     | Bhumi   | 2302500 | Member college Chess Team: 2nd in PTU           |
-| 23     | Dasharandeep Singh   | 2302505 | Member college Chess Team: 2nd in PTU           |
-| 24     | Piyush Goyal   | 2104153 | Captain college Chess Team: 2nd in PTU           |
-| 25     | Abhishek Choudhary   | 2204529 | 2nd in Inter-yr Kabaddi League, 2024           |
-| 26     | Robin Rawat   | 2104170 | 2nd in Inter-yr Football League          |
 
 
 ## Students of CSE bagged various positions in Youth Festival  
