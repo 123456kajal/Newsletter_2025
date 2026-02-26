@@ -51,18 +51,22 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
 |:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
-| 1      | Prabhdeep Kaur          | 2004640  | Affective Computing                           | 2024 |
-| 2      | Muskandeep Kaur         | 2004628  | Affective Computing                            | 2024 |
-| 3      | Rohit              | 2004653  | Basics of Computational Complexity                        | 2024 |
-| 4      | Sukhpreet Kaur         | 2004675  | Software Testing (IIITB)                            | 2023 |
-| 5      | Harsh Verma         | 2004586  | Data Analytics with Python                           | 2023 |
-| 6      | Saurav Sharma         | 2004662  | Data Analytics with Python                           | 2023 |
-| 7      | Vivek Thakur         | 2004687| Data Analytics with Python                           | 2023 |
-| 8      | Yakshi Puri         | 2004688| Cloud Computing                            | 2023 |
-| 9      | Naman Marria         | 1905807| Model Checking                            | 2023 |
-| 10     | Naman Marria         | 1905807| Privacy and Security in Online Social Media                            | 2023 |
-| 11      | Jaskamal Singh         | 1905006| Rural Water Resources Management                            | 2023 |
-| 12      | Jaskamal Singh         | 1905006| Introduction to Embedded System Design                            | 2023 |
+| 1      | Manraj Singh Dhatt          | 2104141  |Reinforcement Learning                       | Aug-Dec 2024 |
+| 2      |  Manraj Singh Dhatt         | 2104141  | Responsible and safe AI                           | Aug-Dec 2024 |
+| 3      |    Ayush Mishra            | 2302490  | The Joy of Computing using python                  | Aug-Dec 2024  |
+| 4      | Abhishek Kumar         | 2302458  | The Joy of Computing using python                     | Aug-Dec 2024 |
+| 5      | Diljot Singh         | 2302509   | The Joy of Computing using python                      | Aug-Dec 2024 |
+| 6      | Aaditya Sinha        | 2302457    | The Joy of Computing using python                     | Aug-Dec 2024 |
+| 7      | Anshika        | 2302478  | The Joy of Computing using python                       | Aug-Dec 2024 |
+| 8      | Anjali Ratte         | 2302472   | The Joy of Computing using python                       | Aug-Dec 2024 |
+| 9      | Komalpreet Kaur         | 2302589    | The Joy of Computing using python                 | Aug-Dec 2024 |
+| 10    | Jyoti Kumari Verma         | 2302573    | The Joy of Computing using python                 | Aug-Dec 2024 |
+| 11   | Ankur       | 2302473    | The Joy of Computing using python                         | Aug-Dec 2024 |
+| 12   | Aryan Prajapati      | 2302483   | The Joy of Computing using python                   | Aug-Dec 2024 |
+| 13   | Navpreet Kaur      | 2302622  | The Joy of Computing using python                       | Aug-Dec 2024 |
+| 14   | Khushpreet Kaur      | 2302591  | The Joy of Computing using python                    | Aug-Dec 2024 |
+| 15   | Kanwarpartap Singh      | 2203478   |  Ethical Hacking                        | Aug-Dec 2024 |
+| 16   | Kanwarpartap Singh      | 2203478   |  Stress Management                        | Aug-Dec 2024 |
 
 ## Students of CSE bagged various positions in Sports  
 
