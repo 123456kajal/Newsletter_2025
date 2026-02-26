@@ -67,6 +67,17 @@ We are also actively involved in research and development activities. Our facult
 | 14   | Khushpreet Kaur      | 2302591  | The Joy of Computing using python                    | Aug-Dec 2024 |
 | 15   | Kanwarpartap Singh      | 2203478   |  Ethical Hacking                        | Aug-Dec 2024 |
 | 16   | Kanwarpartap Singh      | 2203478   |  Stress Management                        | Aug-Dec 2024 |
+| 17   | Manraj Singh Dhatt    | 2104141    | Introduction to Large Language Models (LLMs)               | Jan-Apr 2025|
+| 18   | Manraj Singh Dhatt    | 2104141    | Rural Water Resources Management                | Jan-Apr 2025|
+| 19  | Aryan Prajapati   | 2302483    | Getting started with Competitive programming              | Jan-Apr 2025|
+| 20  | Komalpreet Kaur  | 2302589    | Social Networks       | Jan-Apr 2025|
+| 21  | Shivansh Vishwakarma| 2203561     | Data Analytics with Python     | Jan-Apr 2025|
+| 22  | Jaideep Randhawa | 2203463   | Data Analytics with Python     | Jan-Apr 2025|
+| 23 | Shivansh Vishwakarma| 2203561     | Introduction To Industry 4.0 And Industrial Internet Of Things      | Jan-Apr 2025|
+| 24 | Jaideep Randhawa | 2203463    | Introduction To Industry 4.0 And Industrial Internet Of Things      | Jan-Apr 2025|
+| 25 | Navpreet Kaur | 2302622    | Social Networks     | Jan-Apr 2025|
+| 26 | Navpreet Kaur | 2302622    | Getting Started With Competitive Programming     | Jan-Apr 2025|
+| 27 | Jyoti Kumari Verma| 2302573     | Social Networks     | Jan-Apr 2025|
 
 ## Students of CSE bagged various positions in Sports  
 
