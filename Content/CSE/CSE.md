@@ -324,20 +324,14 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr. No. | Name of Event| Event Type| Date|
 |---------|----------------|--------|-------|
-| 1  |Interactive Session on Cyber Security -Emphasizing Banking Sector           |  Expert Session        |   27-April-24  |
-| 2  |Workshop on Cyber Security           |   Workshop        |   27-Feb-24  |
-| 3  |Workshop on Data Science     | Workshop       |   06-Feb-24 |
-| 4  |Blockchain and Web3 Technologies       |   Expert Talk     |   18-Sep-23  |
+| 1  |Building and running large language models a live demo experience|  Workshop        |  21-Jan-2025  |
 
 
 ### Data Science Club  
 
 | Sr. No. | Name of Event| Event Type| Date|
 |---------|----------------|--------|-------|
-| 1  |Tech News Presentation(Anand Utsav 2024)     |   Technical Event   |   06/03/2024  |
-| 2  |International Webinar on “An Introduction to Internet of Things (IoT) Technology and its Relevance to Engineering”     | Webinar       |   02/03/2024  |
-| 3  |CO-DEsigners |   Technical Event     |   02/02/2024  |
-| 4  |PUZZEL PARCEL GNE’S APEX 2023     |  Activity        |   20/10/2023  |
-| 5  |BRAINIAC BATTLE GNE’S APEX 2023   |   Activity      |   20/10/2023  |
-| 6  |Smart Prompts  |   Activity      |   21/09/2023  |
-| 7  |International Webinar on “Artificial Intelligence with Business Analytics”    |  Webinar      |   14/04/2023  |
+| 1  |Spinovate (Stall at Apex Fair)     |   Activity   |  25/10/2024  |
+| 2  |Ideathon Event      | Technical Event     |   06/09/2024  |
+| 3  |TECH QUEST   (Under Jugaad Mela, 2025)|   Technical Event     |   08/04/2025  |
+| 4  |Re:Brand      |  Tehnical Event      |   06/02/2025   |
