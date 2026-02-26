@@ -196,8 +196,7 @@ We are also actively involved in research and development activities. Our facult
 
 | Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
 |---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
-| 1       | A systematic review on Air Quality Prediction     | Ashish 
-Miglani, **Kiran Jyoti, Kamaldeep Kaur**  | International Conference on Electrical, Electronics & Automation (E2ACON2025)   | International  | March-2025 |
+| 1       | A systematic review on Air Quality Prediction     | Ashish Miglani, **Kiran Jyoti, Kamaldeep Kaur**  | International Conference on Electrical, Electronics & Automation (E2ACON2025)   | International  | March-2025 |
 | 2       | DYMO Routing Protocol in MANETs Based on Random Forest Classifier Machine Learning Technique                        | **Jagdeep Kaur**, Kanish Bansal, Ankita |International Conference on Multidisciplinary Approaches for Sustainable Development (ICMASD 2025)   | International  | Feb-2025 |
 | 3       | From Haze and Smoke to Clarity: An Integration of Deep Learning and Atmospheric Model. | Tashneet Kaur, Dhruv Kumar,  **Sita Rani, Kiran Jyoti**  | International Conference on Computational Intelligence in Communications and Business Analytics.   | International  | Feb-2025 |
 | 4       | Optimizing MobileNet for Brain Tumor Classification: An Analysis of Epochs and Learning Rate Impact on Performance |Krishan Kumar, **Kiran Jyoti** | 9th International Conference on Information System Design & Intelligent Applications.   | International  | Jan-2025 |
