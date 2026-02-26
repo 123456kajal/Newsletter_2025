@@ -88,6 +88,42 @@ We are also actively involved in research and development activities. Our facult
 | 26 | Navpreet Kaur | 2302622    | Getting Started With Competitive Programming     | Jan-Apr 2025|
 | 27 | Jyoti Kumari Verma| 2302573     | Social Networks     | Jan-Apr 2025|
 
+## CSE Students’ Placement Details BATCH 2021-2025
+
+| Sr.No. | URN                    | Name | Details of Company                                | On-Campus/Off-Campus |
+|:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
+|1| 2104055 | Abhinav Prashar | Wits Innovation Lab | On-Campus|
+|2| 2104056| Abhishek Sharma | Infosys| On-Campus |
+|3 |2104057| Aditya Kumar | Intrainz Innovation Private Limited | On-Campus |
+|4 | 2104059 | Aditya Yadav | Intrainz Innovation Private Limited |On-Campus |
+|5 |2104060| Agampreet Singh |Intrainz Innovation Private Limited| On-Campus |
+|6 |2104061 |Ajay kumar| Intrainz Innovation Private Limited| On-Campus| 
+|7 |2104062| Akash Kumar |Wits Innovation Lab| On-Campus |
+|8| 2104064| Amandeep Kaur |Clay HR |On-Campus |
+|9 |2104066| Amrinder Singh| Nebero| On-Campus |
+|10 |2104069| Ankush Makkar| Josh Technology Group| On-Campus |
+|11| 2104070| Anmol Kumar| Venture Pact |On-Campus |
+|12| 2104073| Areen Singh| Infosys| On-Campus |
+|13 |2104075| Arshdeep Singh| Infosys| On-Campus |
+|14| 2104076 |Arshjeet Singh| Cognizant (GenC Select) |On-Campus |
+|15 |2104080 |Bharatdeep Singh| SafeAeon| On-Campus |
+|16 |2104083 |Chandanbir Singh| Wits Innovation Lab| On-Campus |
+|17 |2104087 |Deepshikha |Accelor Microsystems| On-Campus |
+|18 |2104088 |Deesha Devi| SafeAeon |On-Campus |
+|19 |2104089| Dhruv Kumar |Infosys |On-Campus |
+|20 |2104092| Dilraj Singh| Nebero| On-Campus |
+|21 |2104093 |Divneet Kaur |SafeAeon| On-Campus |
+|22 |2104097 |Ekuspreet Singh |Wits Innovation Lab |On-Campus |
+|23 |2104100 |Gundeep Singh |75way Technologies Pvt. LTD. |On-Campus |
+|24 |2104106 |Gurleen Kaur |Infosys| On-Campus |
+|25| 2104107 |Gurpreet Singh| Infosys |On-Campus |
+|26 |2104113| Harnoor Birdi| Wits Innovation Lab| On-Campus |
+|27 |2104117 |Harsimran Singh jaggi |Airtel |On-Campus |
+|28 |2104118 |Inderpreet Singh |Nebero| On-Campus |
+|29| 2104122 |Jasdeep Kaur |Batra Booking Koala |On-Campus |
+|30| 2104123| Jashandeep Kaur |Clay HR |On-Campus|
+
+
 ## Students of CSE bagged various positions in Sports  
 
 | S.No. | Name             | URN     | Achievements                                                                           | 
