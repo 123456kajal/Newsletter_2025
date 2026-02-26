@@ -146,22 +146,13 @@ We are also actively involved in research and development activities. Our facult
 - **Prof. Diana Nagpal** completed **Ph.D (CSE)** [2024].
 - **Dr. Sita Rani**, Assistant Professor (CSE), **Edited/Co-Edited 6 Books** in various technical domains published by CRC Press. 
 
-  
-
-
-## Conference Chaired Sessions
-- **Dr. Kiran Jyoti**, H.O.D.(CSE), Chaired session in the **7th International Joint Conference on Computing Sciences (ICCS-2023) "KILBY100"**, School of Computer Science and Engineering, Lovely Professional University, Punjab [May, 2023].
-- **Dr. Parminder Singh**, Professor(CSE), Chaired session during “**International Conference on Network, Intelligence and Computing (ICONIC-2023)**”, School of Computer Application, Lovely Professional University, Punjab [April, 2023].
 
 ## Faculty Guided Ph.D Candidates
 
 | Name of Supervisor                      | Name of Candidate                      | Reg. Number                                           | Title | Completed on              | 
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
 | Dr. Kiran Jyoti      | Prince Verma  |1503017 | Implementation of an Improved Feature Learning Computational Model for Chatbot | 2024  |
-| Dr. Parminder Singh      | Ubeeka Jain  |1503034 | On Detection and Marking of Fine-Grained Emotions in Punjabi Text | 24.5.2024  | 
-| Dr. Parminder Singh      | Kamaldeep Kaur  |1503033 | Development of Speech Emotion Recognition System For Punjabi | 9.11.2023  | 
-| Dr. Parminder Singh      | Priyanka Arora  |1503035 | Investigations of Shadows in Intravascular Ultrasound Images | 2.11.2023  | 
-| Dr. Parminder Singh      | Navdeep Kaur  |1603022 | Statistical Parametric Approach Based Speech Synthesis For Punjabi | 29.8.2023  |
+
 
 ## Events organized by CSE Department
 
