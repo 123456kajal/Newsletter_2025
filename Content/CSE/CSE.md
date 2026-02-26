@@ -314,7 +314,10 @@ to 01-02-2025 |AICTE & ATAL Academy, SAHRDAYA  COLLEGE OF ENGINEERING &  TECHNOL
 |52|How to navigate Springer Nature Platforms to access all journals | Maninder Kaur| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
 |53|How to navigate Springer Nature Platforms to access all journals | Jagdeep Kaur| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
 |54| Multimodal Generative AI: Techniques, Applications, and Future Directions| Khushi Dhunna | 5 Days|  12-05-2025 to 16-05-2025| EICT Academy, IIT Roorkee|
-
+|55| Generative AI Mastermind | Palak Sood | 2 Days | 23-05-2025 to 24-05-2025| Outskill|
+|56| Software Engineering and Agile software development | Jasdeep Kaur | 3 Days | 21-05-2025 to 23-05-2025 | Infosys Springboard|
+|57| Agile Scrum in Practice| Jasdeep Kaur | 3 Days |  21-05-2025 to 23-05-2025 | Infosys Springboard|
+|58| How to navigate Springer Nature Platforms to access all journals | Manpreet Kaur| 1 Day| 19-03-2025 to 19-03-2025 | Springer Nature|
 
 ## Main Recruiters for CSE Students  
 
