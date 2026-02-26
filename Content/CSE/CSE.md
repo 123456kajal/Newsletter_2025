@@ -176,7 +176,14 @@ We are also actively involved in research and development activities. Our facult
 | S.No. | Name of Event                      | Convenor                      | Coordinator                                           | Co-coordinator | Date              | 
 |:-------|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|
 | 1 | Three Days Capacity Enhancement Program for Faculty on Hands-on with GitHub and Docker on Linux| **Dr. Kiran Jyoti** |**Dr. Kiran Jyoti**| **Er. Manjot Kaur Gill** | 15th-17th July, 2024  |
- 
+
+
+## Industrial Visits organized by CSE Department
+
+| 1 | 16.04.2025  | Solitaire Infosys Private Limited (Mohali) | 2nd Year  |
+| 2 | 03.04.2025   | Sensession Solutions (P) Ltd. (Mohali) | 2nd Year  |
+| 3 | 27.02.2025 | Nebero Systems (Mohali) | 2nd Year  |
+
 ## Faculty Research Publications  
 - [Jaspreet Singh Soni, **Jaswant Singh Taur** (2024, Dec). The Impact of the Semantic Web on The Internet World. International Journal of Computer Science and Applications.]
 - [Sukhman Gill, Gundeep Singh, **Jaswant Singh Taur** (2024, Dec). Revolutionizing Health Care: Leverging AI and NLP to Empower Patients with Smarter, Data-Driven Medical Insights. International Journal of Computer Applications.]
