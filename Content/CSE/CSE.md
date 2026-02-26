@@ -110,7 +110,6 @@ We are also actively involved in research and development activities. Our facult
 | 1     | Srijan Singh  | 2203565 | Music (1st Position), Zonal Youth Festival Oct-2024          | Zonal |
 | 2    | Amitoz Kaur Rehan  | 2415014  | Gidha (1st Position), Zonal Youth Festival 2024      | Zonal |
 | 3   | Gurleen Kaur  | 2302527  | Gidha (1st Position), Zonal Youth Festival 2024      | Zonal |
-Festival 2024      | Zonal |
 | 4  | Anhad Kaur  | 2302469  | Gidha (1st Position, Best Dancer), Zonal Youth Festival 2024 | Zonal |
 | 5 | Simrandeep | 2302682   | Gidha (1st Position), Zonal Youth Festival 2024 | Zonal |
 | 6 | Muskandeep | 2203506  | Gidha (1st Position), Zonal Youth Festival 2024 | Zonal |
