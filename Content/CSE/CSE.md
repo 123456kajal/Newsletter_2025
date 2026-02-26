@@ -20,13 +20,18 @@ We are also actively involved in research and development activities. Our facult
 
 ## Student Achievements
 
-- Vrishti Gupta   URN: 1905064, student of 2019-2023 Batch got placed in PhonePe at the highest package of 19.5 Lakh per Annum .
-- Harsh Kumar (URN:2004584), Gursharan Singh (URN:2004575), students of CSE got placed in Stylumia Intelligence Technologies, Banglore at an annual package of 13 LPA.
-- Jobanpreet Singh (2004603), Kunwar Chetan Singh (2004826), Raunak Raj (2004976) students of CSE got placed placed in Stylumia Intelligence Technologies, Banglore at an annual package of 13 LPA.
-- Tawanjot Singh URN: 1905057, student of CSE got placed in Airbus Group India Private Limited, Banglore, at a package of 10 LPA. 
-- Ekuspreet Singh, Dhruv Kumar, Harsimran Singh, Devesh Sharma, Aarchie Maggu students of CSE got 2nd prize at National Level Smart Hackathon 2023, organized at Shaheed Bhagat Singh State University Technical Campus, Ferozepur.
-- Jasnoor Kaur  URN: 2104128, student of CSE, got recognition of PTU BEST CYCLIST, 2024.
-- Pawan Singh Bisht, student of CSE, got recognition of 2nd  Best Athlete, 2024.
+- Harsh Kumar (URN:2004584), Gursharan Singh (URN:2004575), students of CSE got placed in Stylumia Intelligence Technologies, Banglore at an annual package of 13 LPA, July 2024.
+- Samiya Sehgal (URN: 2302662), Chetan Kumar (URN: 2203418) won the Super Category Champion title at the Future Design Hackathon 2025.
+- Ankush Makkar (URN: 2104069), got placed in Josh Technology Group at an annual package of 11.3.
+- Prinkal Mahajan (URN: 2104157) and Sangam Arora (URN: 2104181), got placed in Argusoft (On-Campus) at an annual package of 7.12.
+- Rhythm Kamra (URN: 2203540), received Alumni Grant of Rs. 10,000 for the project  “GNDEC Leave Mate”
+- Inderjeet Singh (URN: 2203459), Kanwarpartap Singh (URN: 2203478) and Jaskirat Singh (URN: 2203469), received Alumni Grant of Rs. 10,000 for the project “Arduino-Based
+- Drone for Surveillance and Real-Time Data Collection”
+- Best Student Award (Boys): Ekushpreet Singh (URN: 2104160)
+- Best Student Award (Girls): Vanshika Verma (URN: 2104214)
+- PTU Best Cyclist (Girls):  Jasnoor  Kaur (URN: 2135212)
+- Girls Inter-Branch Trophy was won by CSE Department at 64th ANNUAL ATHLETICS MEET (Feb, 2025). 
+
 
 
 ## Gate Cleared Students
@@ -34,11 +39,12 @@ We are also actively involved in research and development activities. Our facult
 
 | S.No.                      | Name of Student                      | Reg. No.                                           | Year | 
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|
-| 1      | MEHAK KALIA  |DA24S18204108 | 2024  | 
-| 2      | NAVNIT KUMAR    |DA24S14001549  | 2024  | 
-| 3      | ROHIT  |CS24S58204184 | 2024  | 
-| 4      | RAGHAV SHARMA  |CS23S18023005 | 2023  | 
-| 5      | HARDEV  |CS23S18023041 | 2023  | 
+| 1      | CHAMANPREET DHILLON  |CS25S18039196 | 2025  | 
+| 2      | EKAMDEEP SINGH MANGAT   |DCS25S18023200  | 2025  | 
+| 3      | SANGAM ARORA  |CS25S18023072 | 2025  | 
+| 4      |VANSHIKA SHARMA  |CS25S28039234 | 2025  | 
+| 5      | UDDHAV KRISHNA BHARDWAJ  |CS25S13041036 | 2025  | 
+| 6      | MEHTAB SINGH MANN  |CS25S18023222 | 2025  | 
 
    
 ## Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
