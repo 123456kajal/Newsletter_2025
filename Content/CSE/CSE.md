@@ -140,19 +140,11 @@ We are also actively involved in research and development activities. Our facult
 
 ## Faculty Achievements  
 
-- **Dr. Parminder Singh**, Professor(CSE), appointed as **Member, Board of Studies**, Jagat Guru Nanak Dev Punjab State Open University, Patiala [Jan,2024]
-- **Er. Satinderpal Singh**, Assistant Professor(CSE), became **Master Trainer** at master trainer program through HPC (AICTE) National Superconducting Mission at CDAC Bangalore [June,2024]
-- **Dr. Amit Jain**, Assistant Professor(CSE), awarded with **two design patents** with a total of five patents [2024].
-- **Dr. Parminder Singh**, Professor(CSE), awarded as **“ISTE Section Best Teacher Award 2023”** at ISTE Section Convention hosted by Bhai Gurdas Institute of Engineering and Technology, Sangrur, Punjab [Nov,2023].
-- **Dr. Amit Jain**, Assistant Professor(CSE), awarded as **ISTE Best Teacher Award 2023** by Indian Society of Technical Education [Nov,2023].
+- **Dr. Amit Jain**, Assistant Professor(CSE), awarded **with two design patents** with a total of five patents [2024].
 - **Dr. Parminder Singh**, Professor(CSE), appointed as **Expert on the Faculty of Computer Sciences** for the term from 11.01.2023 to 10.01.2025 by Punjabi University, Patiala.
-- **Dr. Parminder Singh**, Professor(CSE),	appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022-Jan,2025]
-- **Dr. Sita Rani**, Assistant Professor (CSE), conferred with **Exceptional Women of Excellence** Award by Women’s Indian Chamber of Commerce and Industry [March, 2023].
-- **Dr. Kamaldeep Kaur, Dr. Priyanka Arora, and Dr. Manpreet Kaur Mand** completed **Ph.D (CSE)** [2023].
-- **Dr. Sita Rani**, Assistant Professor (CSE), awarded with **10 Design Patents** with a total of 15.
-- **Dr. Sita Rani**, Assistant Professor (CSE), **Edited/Co-Edited 6 Books** in various technical domains published by CRC Press.
-
-
+- **Dr. Parminder Singh**, Professor(CSE), appointed as **Member, Board of Studies (Computer Sc. & Engg.)**, Shaheed Bhagat Singh State University, Ferozepur [Jan,2022 - Jan,2025]
+- **Prof. Diana Nagpal** completed **Ph.D (CSE)** [2024].
+- **Dr. Sita Rani**, Assistant Professor (CSE), **Edited/Co-Edited 6 Books** in various technical domains published by CRC Press. 
 
   
 
