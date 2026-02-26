@@ -85,13 +85,13 @@ We are also actively involved in research and development activities. Our facult
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|
 | 1     | Keshav Hari Nanda   | 2104135  | Member college Basketball Team; 1st in PTU; 2nd in Inter-yr Basketball League       | 
 | 2     | Jasnoor Kaur   | 2104128  | Member College Handball Team; 2nd in PTU, Captain Basketball & CyclingTeam; 1st in PTU,PTU BEST CYCLIST; 3rd in Discus Throw  in college athletic meet, member Sports Committee          |
-| 3     | Inderpreet Singh   | 2104118 | Member college Basketball Team: 1st in PTU           |
-| 4     | Saumya Dhingra   | 2302667 | Member college Basketball Team: 1st in PTU           |
-| 5     | Ridhamjeet Kaur   | 2203589 | Member college Handball Team: 1st in PTU           |
-| 6     | Simranjeet Kaur   | 2203596 | Member college Handball Team: 1st in PTU           |
-| 7     | Roshni   | 2203593 | Member college Handball Team: 1st in PTU           |
-| 8     | Saumya Dhingra   | 2302667 | Member college Handball Team: 2nd in PTU           |
-| 9     | Aditya Kumar   | 2104057 | Member college Handball Team: 2nd in PTU           |
+| 3     | Abhishek Sharma  | 2104056 | Member college Hockey Team; 2nd   in PTU, College Color in Hockey           |
+| 4     | Piyush Goyal  | 2104153  | Captain college Chess Team; 2nd in PTU, College Color in Chess          |
+| 5     | Aditya Kumar  | 2104057 | Member College  Athletics Team;1st  in PTU and 2nd in Handball, College color in Athletics |
+| 6     | Dayanand   | 2104085 | Member College Volleyball Team, 1st   in GNE Inter-year Volleyball League Tournament          |
+| 7     | Nitin   | 2104149 | Member College Lawn Tennis Team; 3rd in PTU; 2nd in GPL Cricket League, volleyball league         |
+| 8     | Rahul Sharma   | 2104164 | Member College Football Team; 2nd in GNE Inter-year Football League Tournament            |
+| 9     | Harsharan Singh   | 2104116 | 2nd  in GNE Inter-year Football League Tournament    |
 
 
 ## Students of CSE bagged various positions in Youth Festival  
