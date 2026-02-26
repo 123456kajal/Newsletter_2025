@@ -179,7 +179,8 @@ We are also actively involved in research and development activities. Our facult
 
 
 ## Industrial Visits organized by CSE Department
-
+| S.No.                      |          Date            | Name of Industry to be visited                                  | Semester | 
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|
 | 1 | 16.04.2025  | Solitaire Infosys Private Limited (Mohali) | 2nd Year  |
 | 2 | 03.04.2025   | Sensession Solutions (P) Ltd. (Mohali) | 2nd Year  |
 | 3 | 27.02.2025 | Nebero Systems (Mohali) | 2nd Year  |
