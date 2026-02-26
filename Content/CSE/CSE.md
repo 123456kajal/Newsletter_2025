@@ -46,7 +46,16 @@ We are also actively involved in research and development activities. Our facult
 | 5      | UDDHAV KRISHNA BHARDWAJ  |CS25S13041036 | 2025  | 
 | 6      | MEHTAB SINGH MANN  |CS25S18023222 | 2025  | 
 
-   
+## CSE Students awarded with Best Project
+| Sr. No. | URN     | Student Name                   | Title of the Project                | Position      | Session |
+|---------|--------|----------------|-------------------------------------------------------------------------------------------|----------------|------|
+|1| 2104118, 2104160  | Inderpreet Singh, Raghav Jit  | Immune Based Intrusion Detection System  | 1st | July-Dec 2024|
+|2| 2104211, 2104481  | Vaani Gupta, Astha Paika  | Autonomous IoT Car | 1st | July-Dec 2024|
+|3| 2104057, 2104062, 2104070 | Aditya Kumar, Akash Kumar, Anmol Kumar  | Real Time Object Detection and Voice Assistant | 2nd | July-Dec 2024|
+|4| 2104100, 2104199  | Gundeep Singh, Sukhman Kaur  | Health Matrix | 2nd | July-Dec 2024|
+|5| 2203593, 2203596, 2203599 | Roshni, Simranjeet Kaur, Tanveer Singh | Smart Traffic Light System | 1st | Jan-May 2025|
+|6| 2104137, 2135212 | Kuber Tyagi, Shubhdeep Kaur  | One Click Emergency Helper | 2nd | Jan-May 2025|
+
 ## Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
 
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
