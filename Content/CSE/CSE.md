@@ -34,7 +34,7 @@ We are also actively involved in research and development activities. Our facult
 
 
 
-## Gate Cleared Students
+## GATE Cleared Students
 
 
 | S.No.                      | Name of Student                      | Reg. No.                                           | Year | 
