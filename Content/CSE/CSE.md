@@ -180,26 +180,11 @@ We are also actively involved in research and development activities. Our facult
 | 3 | ATAL Sponsored Six days FDP on Quantum Computing      | **Dr. Kiran Jyoti**  |**Dr. Parminder Singh**| **Er. Satinderpal Singh** | 18th - 23rd Dec, 2023  |
  
 ## Faculty Research Publications  
+- [Jaspreet Singh Soni, **Jaswant Singh Taur** (2024, Dec). The Impact of the Semantic Web on The Internet World. International Journal of Computer Science and Applications.]
+- [Sukhman Gill, Gundeep Singh, **Jaswant Singh Taur** (2024, Dec). Revolutionizing Health Care: Leverging AI and NLP to Empower Patients with Smarter, Data-Driven Medical Insights. International Journal of Computer Applications.]
 - [**Goldendeep Kaur, Kiran Jyoti**, Samer Shorman, Anas Ratib Alsoud, Rohit Salgotra (2024, July). An Efficient Approach for Localizing Sensor Nodes in 2D Wireless Sensor Networks Using Whale Optimization-Based Naked Mole Rat Algorithm. MDPI Mathematics.]
-- [Sujay N. Hedge, D.B. Srinivas, M.A. Rajan, **Sita Rani**, Aman Kataria, Hong Min (2024, March). Multi-objective and multi constrained task scheduling framework for computational grids.  Scientific Reports.]
-- [Harmeet Singh, **Sita Rani** (2024, January). Flex Sensor Integrated Smart Strap to Verify Correct Wearing of the Face Mask.  IEEE Sensors.]
-- [**Diana Nagpal**, Shikha Gupta (2023, December). A Novel Transfer Learning based Multi-Feature Fusion Framework for Elderly Activity Recognition. International Journal of Intelligent Systems and Applications in Engineering.]
-- [**Sita Rani** , Sachin Kumar, Aman Kataria, Hong Min (2023, October). SmartHealth: An Intelligent Framework to Secure IoMT Service Applications Using Machine Learning. ICT Express.]
-- [**Sita Rani**, Amit Kumar Mishra, Aman Kataria, Saurav Malik, Hong Quin (2023, September). Machine learning -based optimal crop selection system in smart agriculture. Scientific Reports.]
-- [**Sita Rani**, Aman Kataria, Sachin Kumar, Prayag Tiwari (2023, August). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. Knowledge Based Systems.]
-- [Ubeeka Jain, **Parminder Singh** (2023, August). Impact of Feature Selection for Emotion Detection from Annotated Punjabi Text. International Journal of Intelligent Systems and Applications in Engineering (IJISAE).]
-- [**Kamaldeep Kaur, Parminder Singh** (2023, August). Comparison of Various Feature Selection Algorithms in Speech Emotion Recognition. AIUB Journal of Science and Engineering (AJSE).]
-- [**Diana Nagpal**, Shikha Gupta, Deepak Kumar, Zoltan Illes, Chaman Verma, Barnali Dey (2023,June). GoldenAGER: A Personalized Feature Fusion Activity Recognition Model for Elderly. IEEE Access.]
-- [Harmehak Singh Khangura, Jasleen Kaur, Gurleen Kaur, **Parminder Singh** (2023, May). Human Computer Interaction: Technologies and Challenges. Journal of Emerging Technologies and Innovative Research (JETIR).]
-- [Prince Verma, **Kiran Jyoti**, Nirmaljeet Kaur, Varsha, Shruti (2023, May). Synthesized Deep Learning Model in Chatbot Feature Learning. European Chemical Bulletin.]
-- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April).  A State-Of-The-Art Review on Coronary Artery Border Segmentation Algorithms for Intravascular Ultrasound (IVUS) Images. Cardiovascular Engineering and Technology.]
-- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya (2023,April). Calcification Detection in Intravascular Ultrasound (IVUS) Images Using Transfer Learning Based MultiSVM model. Ultrasonic Imaging.]
-- [**Priyanka Arora, Parminder Singh**, Akshay Girdhar, Rajesh Vijayvergiya, Prince Chaudhary (2023,April). CADNet: an advanced architecture for automatic detection of coronary artery calcification and shadow border in intravascular ultrasound (IVUS) images. Physical and Engineering Sciences in Medicine.]
-- [Prince Verma, **Kiran Jyoti**, Varsha Sahni, S.Jafar Ali Ibrahim, N.S. Kalyan Chakravarthy (2023,April). Synthesized feature learning model on news aggregator for chatbot. Soft Computing.]
-- [Navdeep Kaur, **Parminder Singh** (2023,March). Modeling of Speech Parameters of Punjabi by Pre-Trained Deep Neural Network using Stacked Denoising Autoencoders. ACM Transactions on Asian and Low-Resource Language Information Processing.]
-- [**Kamaldeep Kaur, Parminder Singh** (2023,Feburary). Trends in speech emotion recognition: a comprehensive survey. Multimedia Tools and Applications.]
-- [Vikram Bali, Shivani Bali, Dev Gaur, **Sita Rani**, Raman Kumar (2023,Feburary). Commercial-Off-The Shelf Vendor Selection: A Multi-Criteria Decision-Making Approach Using Intuitionistic Fuzzy Sets and Topsis.  Journal Of Operational Research in Engineering Science:Theory and Applications .]
-
+- [**Sita Rani**, Aman Kataria, Sachin Kumar, Vinod Karar (2025, Jan). A new generation cyber physical system: A comprehensive review from security perspective. Computers & Security, Elsevier.]
+- [**Jagdeep Kaur**, Ankita (2025, April). Improving QoS of the DYMO Routing Protocol in MANETs Using the Random Forest Classifier Technique. Communications on Applied Nonlinear Analysis, Internationalpubls.] 
 
 ### Student-Faculty Conference Publications
 
