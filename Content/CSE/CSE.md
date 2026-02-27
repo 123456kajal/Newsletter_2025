@@ -297,8 +297,7 @@ We are also actively involved in research and development activities. Our facult
 |36| Smart Farming Role of Technology in millets Production |Dr. Amit Jain |6 Days| 13-01-2025 to 18-01-2025 |AICTE & ATAL Academy, SREE BUDDHA COLLEGE OF ENGINEERING, PATTOOR| 
 |37| Indian Health , Wellness & Psychology (including Ayurveda) | Meetali |5 Days| 20-01-2025 to 25-01-2025 |Nehru College of Engineering & Research Centre |
 |38| Sustainable Energy and Climate Management| Dr. Amit Jain |5 Days| 20-01-2025 to 25-01-2025 |AICTE & ATAL Academy, BUDDHA INSTITUTE OF TECHNOLOGY |
-|39| Vehicle Electrification Future Mobility | Dr. Amit Jain|6 Days |27-01-2025 
-to 01-02-2025 |AICTE & ATAL Academy, SAHRDAYA  COLLEGE OF ENGINEERING &  TECHNOLOGY |
+|39| Vehicle Electrification Future Mobility | Dr. Amit Jain|6 Days |27-01-2025 to 01-02-2025 |AICTE & ATAL Academy, SAHRDAYA  COLLEGE OF ENGINEERING &  TECHNOLOGY |
 |40| Revolutionizing Healthcare and Biotechnology: The Role of AI and Computational Techniques | Meetali| 6 Days| 03-02-2025 to 08-02-2025 | Sethu Institute of Technology |
 |41| Emerging Trends in Space Computing Technologies| Dr. Amit Jain| 6 Days| 03-02-2025 to 08-02-2025| AICTE & ATAL Academy, Marthandam College of Engineering and Technology |
 |42| Empowering Education with AI: Innovation, Applications, and Future Directions | Kapil Sharma| 5 Days| 10-02-2025 to 14-02-2024| Pyramid College of Business and Technology |
